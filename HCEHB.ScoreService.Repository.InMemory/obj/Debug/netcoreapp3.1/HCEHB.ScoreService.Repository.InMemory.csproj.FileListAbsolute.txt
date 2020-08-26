@@ -1,0 +1,9 @@
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Repository.InMemory\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.Repository.InMemory.deps.json
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Repository.InMemory\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.Repository.InMemory.dll
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Repository.InMemory\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.Repository.InMemory.pdb
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Repository.InMemory\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Repository.InMemory.csprojAssemblyReference.cache
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Repository.InMemory\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Repository.InMemory.AssemblyInfoInputs.cache
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Repository.InMemory\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Repository.InMemory.AssemblyInfo.cs
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Repository.InMemory\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Repository.InMemory.csproj.CoreCompileInputs.cache
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Repository.InMemory\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Repository.InMemory.dll
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Repository.InMemory\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Repository.InMemory.pdb

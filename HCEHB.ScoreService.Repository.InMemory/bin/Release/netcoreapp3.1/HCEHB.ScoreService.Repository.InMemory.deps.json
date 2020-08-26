@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HCEHB.ScoreService.Repository.InMemory/0.1.4-hcbs-17199-intro0016": {
+        "runtime": {
+          "HCEHB.ScoreService.Repository.InMemory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HCEHB.ScoreService.Repository.InMemory/0.1.4-hcbs-17199-intro0016": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

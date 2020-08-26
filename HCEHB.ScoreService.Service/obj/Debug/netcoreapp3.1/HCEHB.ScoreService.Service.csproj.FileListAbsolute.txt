@@ -1,0 +1,17 @@
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.deps.json
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.dll
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.pdb
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.csprojAssemblyReference.cache
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.AssemblyInfoInputs.cache
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.AssemblyInfo.cs
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.dll
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.pdb
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Desktop\ScoreAPIFixes\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.deps.json
+C:\Users\Rahul\Desktop\ScoreAPIFixes\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.dll
+C:\Users\Rahul\Desktop\ScoreAPIFixes\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.pdb
+C:\Users\Rahul\Desktop\ScoreAPIFixes\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.AssemblyInfoInputs.cache
+C:\Users\Rahul\Desktop\ScoreAPIFixes\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.AssemblyInfo.cs
+C:\Users\Rahul\Desktop\ScoreAPIFixes\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Desktop\ScoreAPIFixes\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.dll
+C:\Users\Rahul\Desktop\ScoreAPIFixes\ScoreAPIFixes\src\production\HCEHB.ScoreService.Service\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.Service.pdb

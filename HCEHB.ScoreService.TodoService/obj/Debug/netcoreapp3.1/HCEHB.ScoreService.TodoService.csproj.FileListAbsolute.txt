@@ -1,0 +1,9 @@
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.TodoService\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.TodoService.deps.json
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.TodoService\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.TodoService.dll
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.TodoService\bin\Debug\netcoreapp3.1\HCEHB.ScoreService.TodoService.pdb
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.TodoService\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.TodoService.csprojAssemblyReference.cache
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.TodoService\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.TodoService.AssemblyInfoInputs.cache
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.TodoService\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.TodoService.AssemblyInfo.cs
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.TodoService\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.TodoService.csproj.CoreCompileInputs.cache
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.TodoService\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.TodoService.dll
+C:\Repo\ScoreAPIFixes\src\production\HCEHB.ScoreService.TodoService\obj\Debug\netcoreapp3.1\HCEHB.ScoreService.TodoService.pdb

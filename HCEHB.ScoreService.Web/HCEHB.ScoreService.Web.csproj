@@ -1,0 +1,74 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DockerComposeProjectPath>..\..\docker-compose.dcproj</DockerComposeProjectPath>
+    <UserSecretsId>6c50f0dc-00d0-49c1-bfde-8b0aac228b6a</UserSecretsId>
+    <AssemblyName>HCEHB.ScoreService.Web</AssemblyName>
+    <RootNamespace>HCEHB.ScoreService.Web</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+    <GenerateAssemblyInformationalVersionAttribute>false</GenerateAssemblyInformationalVersionAttribute>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="honeywell.cedevops.featuretoggleclient" Version="0.1.4" />
+    <PackageReference Include="Honeywell.HCEHB.DatabaseModels" Version="0.1.5" />
+    <PackageReference Include="NSwag.AspNetCore" Version="13.6.2" />
+    <PackageReference Include="NSwag.Core" Version="13.6.2" />
+    <PackageReference Include="Serilog.AspNetCore" Version="2.1.1" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\CommonAssemblyInfo.cs" Link="CommonAssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\HCEHB.ScoreService.featuretoggleclient\HCEHB.ScoreService.featuretoggleclient.csproj" Link="HCEHB.ScoreService.featuretoggleclient.csproj" />
+    <None Include="..\HCEHB.ScoreService.Repository.InMemory\HCEHB.ScoreService.Repository.InMemory.csproj" Link="HCEHB.ScoreService.Repository.InMemory.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>System</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update=".dockerignore">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Dockerfile">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+<PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+    <PublicSign>false</PublicSign>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>..\..\StrongNameKey.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="..\..\StrongNameKey.snk">
+      <Link>StrongNameKey.snk</Link>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HCEHB.ScoreService.Repository.Sql\HCEHB.ScoreService.Repository.Sql.csproj" />
+  </ItemGroup>
+</Project>

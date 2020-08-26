@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HCEHB.ScoreService.TodoService/1.0.0": {
+        "runtime": {
+          "HCEHB.ScoreService.TodoService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HCEHB.ScoreService.TodoService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
